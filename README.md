@@ -15,3 +15,6 @@ another one
 
 ## Copyright
 Git.Training.2020
+
+## How to contribute
+Please fork this repository and then request commit
