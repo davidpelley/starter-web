@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 making a change
 another change
 another one
+
+## Copyright
+Git.Training.2020
